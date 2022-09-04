@@ -1,0 +1,20 @@
+.nav {
+  font-family: roboto;
+  text-align: center;
+  width: fit-content;
+  margin: 0px auto;
+}
+.nav > a{
+    margin-right: 10px;
+}
+body{
+    width: 100%;
+    margin: 0px;
+}
+
+button:hover {
+    color: brown;
+}
+h2 > b{
+    color:red;
+} 
